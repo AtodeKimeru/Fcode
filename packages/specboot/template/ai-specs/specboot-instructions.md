@@ -20,6 +20,7 @@ It's highly recommended to be used along with Spec-Driven Development frameworks
 │   ├── api-spec.yml             # OpenAPI specification
 │   ├── data-model.md            # Database and domain models
 │   ├── development_guide.md
+│   ├── README.md                # Harness Readme
 ├── ai-specs/
 │   ├── agents/                  # Agent role definitions (backend, frontend, analyst, etc.)
 │   └── skills/                  # Reusable skill prompts/workflows

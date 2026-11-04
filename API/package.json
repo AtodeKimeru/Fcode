@@ -13,5 +13,8 @@
   },
   "peerDependencies": {
     "typescript": "^7"
+  },
+  "dependencies": {
+    "groq-sdk": "^1.6.0"
   }
 }
